@@ -1,0 +1,41 @@
+  119  pwd
+  120  cd devopspract/
+  121  git clone https://github.com/manugredd/sample.git
+  122  ls
+  123  cd sample/
+  124  echo "hai this my devops first practice" > practice
+  125  ls -ltr
+  126  cat practice
+  127  git push
+  128  git config --global user.name "manu g reddy"
+  129  git config --global user.name "manugreddy"
+  130  git config --global user.mail "saikumar19941995@gmail.com"
+  131  git remote add fb https://github.com/manugredd/sample.git
+  132  git remote -v
+  133  git push
+  134  git push practice
+  135  git status
+  136  git add .
+  137  git status
+  138  git commit -m
+  139  git commit -m "one file add"
+  140  git man
+  141  git status
+  142  git log -2
+  143  git show --pretty="" --name-only  ba84e1b488d
+  144  git show  ba84e1b488d
+  145  git push practice
+  146  git push
+  147  git clone https://github.com/manugredd/devops.git
+  148  git status
+  149  touch "this is devops" > idea
+  150  git status
+  151  git clean -l
+  152  git clean -f
+  153  git status
+  154  touch id
+  155  git status
+  156  git clean -n
+  157  git status
+  158  git clean -f
+  159  git status
