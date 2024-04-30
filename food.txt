@@ -1,0 +1,6 @@
+1:ice cream
+2:banana milk shake
+3:burger
+4:fish fry
+5:kabab
+6:biriyani
