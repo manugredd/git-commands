@@ -3,3 +3,8 @@ plant names
 2;banana
 3:sapota
 4:casunet
+5:pinapple
+6;papaya
+7:cocount
+9:goa
+10:leachi
